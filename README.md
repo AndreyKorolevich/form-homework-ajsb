@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2kw3is5cn3ducwv6?svg=true)](https://ci.appveyor.com/project/AndreyKorolevich/form-homework-ajsb)
 ### Popovers
 
 #### Легенда
